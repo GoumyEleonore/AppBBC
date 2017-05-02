@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.4.0)
+  - MRArticleViewController (1.0.7)
+  - QuickRippleButton (0.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - MRArticleViewController
+  - QuickRippleButton
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  MRArticleViewController: 89f0556462d385e1e67c2e6bd1601b3a57408b25
+  QuickRippleButton: bb0de9a85ce0987a57300b2cafa87a4b42eac8b9
+
+PODFILE CHECKSUM: a33babde77cb4a258e2768dca3dbe367ea65b78f
+
+COCOAPODS: 1.2.1
